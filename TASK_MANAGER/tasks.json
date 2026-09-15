@@ -1,26 +1,20 @@
 [
     {
-        "task": "Maths PYQ's",
+        "task": "PAT - 2",
         "completed": false,
         "priority": "High",
-        "due_date": "2026-12-08"
-    },
-    {
-        "task": "Chemistry Manual",
-        "completed": false,
-        "priority": "Medium",
         "due_date": "2026-09-17"
     },
     {
-        "task": "Maths Syllabus",
+        "task": "Eng DA",
         "completed": true,
-        "priority": "Low",
-        "due_date": "2026-09-09"
+        "priority": "High",
+        "due_date": "2026-09-16"
     },
     {
-        "task": "Python Week 7",
-        "completed": true,
-        "priority": "Low",
-        "due_date": "2026-09-30"
+        "task": "MATLAB - softcopy",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "2026-09-22"
     }
 ]
