@@ -1,0 +1,20 @@
+[
+    {
+        "task": "PAT - 2",
+        "completed": false,
+        "priority": "High",
+        "due_date": "2026-09-17"
+    },
+    {
+        "task": "Eng DA",
+        "completed": true,
+        "priority": "High",
+        "due_date": "2026-09-16"
+    },
+    {
+        "task": "MATLAB - softcopy",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "2026-09-22"
+    }
+]
