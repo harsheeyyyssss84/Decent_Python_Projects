@@ -1,20 +1,26 @@
 [
     {
-        "task": "PAT - 2",
-        "completed": false,
-        "priority": "High",
-        "due_date": "2026-09-17"
-    },
-    {
-        "task": "Eng DA",
-        "completed": true,
-        "priority": "High",
-        "due_date": "2026-09-16"
-    },
-    {
-        "task": "MATLAB - softcopy",
+        "task": "MATLAB",
         "completed": false,
         "priority": "Medium",
+        "due_date": "2026-09-24"
+    },
+    {
+        "task": "Thermo Exam",
+        "completed": false,
+        "priority": "High",
+        "due_date": "2026-09-23"
+    },
+    {
+        "task": "Chem LAB Manual",
+        "completed": false,
+        "priority": "Low",
         "due_date": "2026-09-22"
+    },
+    {
+        "task": "Maths 6th Exp LAB Manual",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "2026-09-24"
     }
 ]
